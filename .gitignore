@@ -1,0 +1,31 @@
+# Local analysis, vendor snapshots and account data are never published.
+analysis/
+audit-evidence/
+artifacts/
+PLAN.md
+references/*
+!references/licenses/
+!references/licenses/**
+
+# Build, editor and backup files.
+**/bin/
+**/obj/
+**/.avalonia-build-tasks/
+.vs/
+.idea/
+*.user
+*.suo
+*.bak*
+*.tmp
+*.log
+__pycache__/
+
+# Runtime data and credentials.
+.env
+.env.*
+*.credential
+settings.json
+last-*.json
+*.lic
+*.pfx
+*.p12

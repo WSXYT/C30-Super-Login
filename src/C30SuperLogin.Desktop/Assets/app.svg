@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="title desc">
+  <title id="title">C30 - Open Portal</title>
+  <desc id="desc">A luminous C-shaped portal and an inset cyan door on a soft cobalt tile.</desc>
+  <defs>
+    <linearGradient id="tile" gradientUnits="userSpaceOnUse" x1="72" y1="40" x2="440" y2="472">
+      <stop stop-color="#5298FF"/>
+      <stop offset="1" stop-color="#354DD5"/>
+    </linearGradient>
+    <linearGradient id="frame" gradientUnits="userSpaceOnUse" x1="256" y1="110" x2="256" y2="402">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E3EDFF"/>
+    </linearGradient>
+    <linearGradient id="door" gradientUnits="userSpaceOnUse" x1="324" y1="214" x2="398" y2="300">
+      <stop stop-color="#B2F7FF"/>
+      <stop offset="1" stop-color="#64DDF2"/>
+    </linearGradient>
+  </defs>
+  <!-- Deliberately only three silhouettes: tile, open frame, inset door. -->
+  <rect x="24" y="24" width="464" height="464" rx="116" fill="url(#tile)"/>
+  <path fill="url(#frame)" d="M332 110 C339.732 110 346 116.268 346 124 L346 170 C346 177.732 339.732 184 332 184 L214 184 C195.222 184 180 199.222 180 218 L180 294 C180 312.778 195.222 328 214 328 L332 328 C339.732 328 346 334.268 346 342 L346 388 C346 395.732 339.732 402 332 402 L210 402 C151.458 402 104 354.542 104 296 L104 216 C104 157.458 151.458 110 210 110 Z"/>
+  <path fill="url(#door)" d="M332.681 222.726 L384.681 204.680 C391.188 202.394 398 207.224 398 214.121 L398 278.909 C398 283.153 395.320 286.934 391.319 288.340 L339.319 306.610 C332.812 308.896 326 304.066 326 297.169 L326 232.157 C326 227.913 328.680 224.132 332.681 222.726 Z"/>
+</svg>

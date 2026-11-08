@@ -1,0 +1,6 @@
+LIBRARY DuiLib
+EXPORTS
+    CreateFixture=CreateFixture
+    ?ExecJS@CCefBrowserUI@DuiLib@@QAEXPBD@Z=@FixtureExecJS@12
+    ?IsCefCtrlReady@CCefBrowserUI@DuiLib@@QAE_NXZ=@FixtureReady@8
+    ?GetHostWindow@CCefBrowserUI@DuiLib@@QBEPAUHWND__@@XZ=@FixtureHost@8

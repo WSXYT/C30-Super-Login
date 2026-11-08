@@ -1,0 +1,206 @@
+[
+  {
+    "package": "Avalonia/11.3.22",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AvaloniaUI/Avalonia/",
+      "commit": "627ae9ef921621e27e7aa58df2796fbadb50af88"
+    }
+  },
+  {
+    "package": "Avalonia.Angle.Windows.Natives/2.1.25547.20250602",
+    "license": "",
+    "repository": {}
+  },
+  {
+    "package": "Avalonia.BuildServices/11.3.2",
+    "license": "",
+    "repository": {}
+  },
+  {
+    "package": "Avalonia.Controls.ColorPicker/11.3.12",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AvaloniaUI/Avalonia/",
+      "commit": "37fbd9655cc581ff5b1c6b1fb1be4e3118c889d0"
+    }
+  },
+  {
+    "package": "Avalonia.Controls.DataGrid/11.3.12",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AvaloniaUI/Avalonia.Controls.DataGrid",
+      "commit": "6a64185d273b4bda776c6b28855483b36601377e"
+    }
+  },
+  {
+    "package": "Avalonia.Desktop/11.3.22",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AvaloniaUI/Avalonia/",
+      "commit": "627ae9ef921621e27e7aa58df2796fbadb50af88"
+    }
+  },
+  {
+    "package": "Avalonia.Fonts.Inter/11.3.22",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AvaloniaUI/Avalonia/",
+      "commit": "627ae9ef921621e27e7aa58df2796fbadb50af88"
+    }
+  },
+  {
+    "package": "Avalonia.FreeDesktop/11.3.22",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AvaloniaUI/Avalonia/",
+      "commit": "627ae9ef921621e27e7aa58df2796fbadb50af88"
+    }
+  },
+  {
+    "package": "Avalonia.Native/11.3.22",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AvaloniaUI/Avalonia/",
+      "commit": "627ae9ef921621e27e7aa58df2796fbadb50af88"
+    }
+  },
+  {
+    "package": "Avalonia.Remote.Protocol/11.3.22",
+    "license": "",
+    "repository": {}
+  },
+  {
+    "package": "Avalonia.Skia/11.3.22",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AvaloniaUI/Avalonia/",
+      "commit": "627ae9ef921621e27e7aa58df2796fbadb50af88"
+    }
+  },
+  {
+    "package": "Avalonia.Themes.Fluent/11.3.22",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AvaloniaUI/Avalonia/",
+      "commit": "627ae9ef921621e27e7aa58df2796fbadb50af88"
+    }
+  },
+  {
+    "package": "Avalonia.Win32/11.3.22",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AvaloniaUI/Avalonia/",
+      "commit": "627ae9ef921621e27e7aa58df2796fbadb50af88"
+    }
+  },
+  {
+    "package": "Avalonia.X11/11.3.22",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AvaloniaUI/Avalonia/",
+      "commit": "627ae9ef921621e27e7aa58df2796fbadb50af88"
+    }
+  },
+  {
+    "package": "FluentAvaloniaUI/2.5.1",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/amwx/FluentAvalonia",
+      "branch": "refs/heads/master",
+      "commit": "8f3ecb16a262bcdad13103031ba0a323bc240634"
+    }
+  },
+  {
+    "package": "HarfBuzzSharp/8.3.1.1",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://go.microsoft.com/fwlink/?linkid=868515",
+      "branch": "release/3.119.0",
+      "commit": "64f24b1cddb68d30ec0ac6b661964178fc21d5ec"
+    }
+  },
+  {
+    "package": "HarfBuzzSharp.NativeAssets.Linux/8.3.1.1",
+    "license": "",
+    "repository": {}
+  },
+  {
+    "package": "HarfBuzzSharp.NativeAssets.macOS/8.3.1.1",
+    "license": "",
+    "repository": {}
+  },
+  {
+    "package": "HarfBuzzSharp.NativeAssets.WebAssembly/8.3.1.1",
+    "license": "",
+    "repository": {}
+  },
+  {
+    "package": "HarfBuzzSharp.NativeAssets.Win32/8.3.1.1",
+    "license": "",
+    "repository": {}
+  },
+  {
+    "package": "MicroCom.Runtime/0.11.0",
+    "license": "",
+    "repository": {}
+  },
+  {
+    "package": "SkiaSharp/2.88.9",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mono/SkiaSharp",
+      "branch": "release/2.88.9",
+      "commit": "9699cdf046a989423a5e5eca68e7fd813486d81c"
+    }
+  },
+  {
+    "package": "SkiaSharp.NativeAssets.Linux/2.88.9",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mono/SkiaSharp",
+      "branch": "release/2.88.9",
+      "commit": "9699cdf046a989423a5e5eca68e7fd813486d81c"
+    }
+  },
+  {
+    "package": "SkiaSharp.NativeAssets.macOS/2.88.9",
+    "license": "",
+    "repository": {}
+  },
+  {
+    "package": "SkiaSharp.NativeAssets.WebAssembly/2.88.9",
+    "license": "",
+    "repository": {}
+  },
+  {
+    "package": "SkiaSharp.NativeAssets.Win32/2.88.9",
+    "license": "",
+    "repository": {}
+  },
+  {
+    "package": "Tmds.DBus.Protocol/0.21.3",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/tmds/Tmds.DBus.git",
+      "branch": "refs/heads/release/0.21",
+      "commit": "8cb04f66c330b64244e996ff68f685f27f7381a0"
+    }
+  }
+]

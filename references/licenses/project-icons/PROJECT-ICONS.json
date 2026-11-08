@@ -1,0 +1,16 @@
+[
+  {
+    "project": "EasiAuto",
+    "source": "https://github.com/hxabcd/EasiAuto/blob/master/resources/icons/EasiAuto.ico",
+    "git_blob": "62072f3b8b9f168bf854eed5a5a7817729d99dad",
+    "path": "EasiAuto.ico",
+    "sha256": "B7FFB06890FB26CE73CE204E5AD6A05973718D8BC99B90D31A2DFF0F36F9D54C"
+  },
+  {
+    "project": "ClassIsland",
+    "source": "https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland.Desktop/Assets/AppLogo.ico",
+    "git_blob": "1240ade6c93e539cb1f0040ac36b4b53f4fe319a",
+    "path": "ClassIsland.ico",
+    "sha256": "2CD3A2759EEC1804C47456010E60B87F1AA22D720843A4CAC0CB5AFC8D67AF67"
+  }
+]

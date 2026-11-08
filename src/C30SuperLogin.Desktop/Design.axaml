@@ -1,0 +1,9 @@
+<Styles xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <!-- Preserve FluentAvalonia templates, theme brushes, pointer states and focus rings. -->
+  <Style Selector=":is(Window)"><Setter Property="FontFamily" Value="Segoe UI Variable Text, Segoe UI, Microsoft YaHei UI"/><Setter Property="FontSize" Value="14"/></Style>
+  <Style Selector="Button"><Setter Property="Padding" Value="14,7"/><Setter Property="MinHeight" Value="34"/></Style>
+  <Style Selector="TextBox"><Setter Property="MinHeight" Value="34"/></Style>
+  <Style Selector="ComboBox"><Setter Property="MinHeight" Value="34"/><Setter Property="HorizontalAlignment" Value="Stretch"/></Style>
+  <Style Selector="ListBox.accounts"><Setter Property="Background" Value="Transparent"/><Setter Property="BorderThickness" Value="0"/><Setter Property="Padding" Value="0"/></Style>
+  <Style Selector="ListBox.accounts ListBoxItem"><Setter Property="CornerRadius" Value="6"/><Setter Property="Margin" Value="0,2"/><Setter Property="Padding" Value="10"/></Style>
+</Styles>

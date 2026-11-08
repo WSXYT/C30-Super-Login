@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>WinExe</OutputType><TargetFramework>net10.0-windows</TargetFramework><AssemblyName>C30SuperLogin</AssemblyName><Version>0.1.0</Version><ApplicationManifest>app.manifest</ApplicationManifest><ApplicationIcon>Assets/app.ico</ApplicationIcon></PropertyGroup>
+  <ItemGroup>
+    <AssemblyMetadata Include="C30UpdateUrl" Value="$(C30UpdateUrl)" Condition="'$(C30UpdateUrl)' != ''" />
+    <AvaloniaResource Include="Assets/**" />
+    <PackageReference Include="Avalonia" Version="11.3.22" />
+    <PackageReference Include="Avalonia.Desktop" Version="11.3.22" />
+    <PackageReference Include="Avalonia.Themes.Fluent" Version="11.3.22" />
+    <PackageReference Include="Avalonia.Fonts.Inter" Version="11.3.22" />
+    <PackageReference Include="FluentAvaloniaUI" Version="2.5.1" />
+    <PackageReference Include="Velopack" Version="1.2.161" />
+    <ProjectReference Include="../C30SuperLogin.Core/C30SuperLogin.Core.csproj" />
+    <Content Include="../../artifacts/native/C30Native.exe" Link="C30Native.exe" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../../artifacts/native/C30Agent.dll" Link="C30Agent.dll" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

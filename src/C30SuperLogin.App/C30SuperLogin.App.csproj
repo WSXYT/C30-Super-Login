@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>WinExe</OutputType><TargetFramework>net10.0-windows</TargetFramework><UseWPF>true</UseWPF><UseWindowsForms>true</UseWindowsForms><ImplicitUsings>disable</ImplicitUsings><AssemblyName>C30SuperLogin</AssemblyName><Version>0.1.0</Version></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../C30SuperLogin.Core/C30SuperLogin.Core.csproj" /></ItemGroup>
+  <ItemGroup><Content Include="../../artifacts/native/C30Native.exe" Link="C30Native.exe" CopyToOutputDirectory="PreserveNewest" Condition="Exists('../../artifacts/native/C30Native.exe')" /><Content Include="../../artifacts/native/C30Agent.dll" Link="C30Agent.dll" CopyToOutputDirectory="PreserveNewest" Condition="Exists('../../artifacts/native/C30Agent.dll')" /></ItemGroup>
+</Project>
